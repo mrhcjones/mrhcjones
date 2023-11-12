@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am the developer that made aps like Quacker and WordOfTheDay. I accidentally deleted my account and this is my new account. I used to be known as TheHCJ.
 
 <!--
 **mrhcjones/mrhcjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
